@@ -42,10 +42,7 @@ git clone https://github.com/LukaBrazi/youTube-guard ~/.claude/skills/youTube-gu
 
 Оновитись до свіжої версії: `git -C ~/.claude/skills/youTube-guard pull`.
 
-**claude.ai.**
-
-1. На сторінці репозиторію натисни Code – Download ZIP.
-2. Завантаж цей zip через Settings – Features. Потрібен платний план.
+**claude.ai.** Скачай готовий файл [kids-youtube-curator.zip](https://github.com/LukaBrazi/youTube-guard/releases/latest/download/kids-youtube-curator.zip) і завантаж його як є через Settings – Features. Розпаковувати не треба. Потрібен платний план.
 
 ## Перший запуск
 
