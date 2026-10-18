@@ -32,24 +32,20 @@
 
 ## Встановлення
 
-Репозиторій називається `youTube-guard`, а скіл – `kids-youtube-curator`. Тека зі скілом у тебе має називатись саме `kids-youtube-curator`, тож назву при встановленні вказуємо явно.
-
-**Claude Code.** Одна команда – склонувати репозиторій одразу в теку скіла:
+**Claude Code.** Склонуй репозиторій у теку зі скілами:
 
 ```bash
-git clone https://github.com/LukaBrazi/youTube-guard ~/.claude/skills/kids-youtube-curator
+git clone https://github.com/LukaBrazi/youTube-guard ~/.claude/skills/youTube-guard
 ```
 
-Так скіл буде доступний у всіх проєктах. Якщо треба тільки в одному проєкті – клонуй у `.claude/skills/kids-youtube-curator` всередині цього проєкту.
+Так скіл буде доступний у всіх проєктах. Якщо треба тільки в одному проєкті – клонуй у `.claude/skills/` всередині цього проєкту.
 
-Оновитись до свіжої версії: `git -C ~/.claude/skills/kids-youtube-curator pull`.
+Оновитись до свіжої версії: `git -C ~/.claude/skills/youTube-guard pull`.
 
 **claude.ai.**
 
-1. На сторінці репозиторію натисни Code – Download ZIP і розпакуй архів.
-2. Перейменуй розпаковану теку `youTube-guard-main` на `kids-youtube-curator`.
-3. Запакуй цю теку назад у zip.
-4. Завантаж zip через Settings – Features. Потрібен платний план.
+1. На сторінці репозиторію натисни Code – Download ZIP.
+2. Завантаж цей zip через Settings – Features. Потрібен платний план.
 
 ## Перший запуск
 
